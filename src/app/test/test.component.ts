@@ -14,6 +14,8 @@ export class TestComponent implements OnInit {
 
   onSave(){
     alert("Console log 1");
+    alert("Console log 2");
+
 
   }
 
