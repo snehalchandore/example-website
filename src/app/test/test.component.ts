@@ -16,7 +16,11 @@ export class TestComponent implements OnInit {
     alert("Testing purpose>");
     alert("Testing purpose>");
     alert("Testing purpose>");
-    
+
+    alert("Testing purpose>");
+    alert("Testing purpose>");
+    alert("Testing purpose>");
+
   }
 
 }
