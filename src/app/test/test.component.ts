@@ -14,6 +14,9 @@ export class TestComponent implements OnInit {
 
   onSave(){
     alert("Testing purpose>");
+    alert("Testing purpose>");
+    alert("Testing purpose>");
+    
   }
 
 }
