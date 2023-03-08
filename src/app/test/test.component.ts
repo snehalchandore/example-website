@@ -13,7 +13,7 @@ export class TestComponent implements OnInit {
   }
 
   onSave(){
-    alert("a hut is big g1xxxxxcccceur6wei4i........?????>>>>>>");
+    alert("Testing purpose>");
   }
 
 }
