@@ -13,7 +13,12 @@ export class TestComponent implements OnInit {
   }
 
   onSave(){
-    alert("Testing purpose>");
+    alert("Console log 1");
+    alert("Console log 2");
+    alert("Console log 3");
+    alert("Console log 4");
+
+
   }
 
 }
